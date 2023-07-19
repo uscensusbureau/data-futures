@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+
+  {% include head.html %}
+
+  <body class="{{ page.layout }} {% if page.type == "tag"%}tag-{% endif %}page-{{ page.title | slugify }}{% if page.url == "/" %} index{% endif %}
+  {% if page.header_border == true or layout.header_border == true %}header_border{% endif %} {% if page.path contains '_posts' %}single-post{% endif %}">
+
+    {% include header.html %}
+  	
+    <div class="inner-container">
+    	<main class="main-content" id="main-content">
+      	{{ content }}
+  		</main>
+  	</div>
+
+  </body>
+</html>

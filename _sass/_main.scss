@@ -1,0 +1,44 @@
+@use "button";
+@use "grid";
+@use "header";
+@use "typography";
+@use "logo";
+
+section {
+	margin-bottom: 3rem;
+}
+
+.cta-container {
+	background-color: rgb(241, 241, 239);
+	grid-template-columns: 50px 1fr;
+	margin-top: 2rem;
+	padding: 1.5rem;
+
+	h3 {
+		margin-top: 0
+	}
+}
+
+.milestone {
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 1rem;
+	padding: 1rem;
+
+	h3 {
+		margin: 0;
+	}
+
+	p {
+		color: #666;
+		font-size: 1rem;
+		margin: 0.5rem 0 0;
+	}
+}
+
+.section-deadlines {
+	.grid-container {
+		column-gap: 5%;
+		grid-template-columns: 47.5% 47.5%;
+	}
+}

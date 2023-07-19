@@ -1,0 +1,100 @@
+<!-- Basic Page Needs
+================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Mobile Specific Metas
+================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Meta tags
+================================================== -->
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+
+<!-- Creator -->
+<meta name="twitter:creator" content="@18F">
+<!-- Title -->
+{% if page.title %}
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
+{% else %}
+  <title>{{ site.title }} | {{ site.description }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+  <meta property="twitter:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+{% endif %}
+
+<!-- Twitter Site -->
+<meta name="twitter:site" content="@18F" />
+
+<!-- Description -->
+{% if page.seo_excerpt %}
+  <meta name="description" content="{{ page.excerpt | xml_escape }}">
+  <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
+  <meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />
+{% else %}
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}" />
+  <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+{% endif %}
+
+<!-- Image -->
+{% if page.image %}
+  <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta name="image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}" />
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  {% if page.image_accessibility %}
+    <meta name="twitter:image:alt" content="{{ page.image_accessibility }}">
+  {% endif %}
+{% endif %}
+
+<!-- Author -->
+{% if page.author %}
+  <meta name="author" content="{{ page.author | array_to_sentence_string }}">
+{% endif %}
+
+<!-- Date -->
+{% if page.date %}
+  <meta name="date" content="{{ page.date }}"" scheme="YYYY-MM-DD">
+{% endif %}
+
+<!-- Tags -->
+{% if page.tags %}
+  <meta name="keywords" content="{{ page.tags  | array_to_sentence_string }}">
+{% endif %}
+
+  <link rel="canonical" href="{{ siteurl }}{{ site.baseurl }}{{ page.url }}" />
+
+<!--[if lt IE 9]>
+  <script src="{{ site.baseurl }}/assets/js/vendor/html5shiv.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/vendor/respond.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/vendor/selectivizr-min.js"></script>
+<![endif]-->
+
+<!-- Favicons
+================================================== -->
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/assets/site.webmanifest">
+
+<!-- CSS
+=================================================== -->
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | prepend: site.baseurl }}" media="all" />
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ page.gtm_id }}"></script>
+  <script>
+  	/*
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ page.gtm_id }}');
+    /*
+  </script>
