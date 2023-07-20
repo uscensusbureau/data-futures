@@ -56,7 +56,7 @@ title: Home
 	<h2>3️⃣ Pilot Details</h2>
 	<h3>🔎 What does a great pitch look like?</h3>
 	<p>
-		A great pitch describes the sevirity of a data innovation challenge and speaks to the potential impact
+		A great pitch describes the severity of a data innovation challenge and speaks to the potential impact
 		of solving for it. Here’s an example of the kind of pitch we’re looking for:
 	</p>
 	<div class="example-pitch">
