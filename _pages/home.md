@@ -13,7 +13,7 @@ title: Home
 	<h2>1️⃣ How it Works</h2>
 	<ol>
 		<li>✅ Census Bureau staff <strong>submit data innovation ideas</strong>. You only need a few sentences about the idea and some details about yourself to submit.</li>
-		<li>⚖️ Ideas are <strong>judged by a panel of innovators and technologists</strong> bbased on the following criteria: Innovation, Impact, Feasibility, Scalability, and Sustainability (more below). </li>
+		<li>⚖️ Ideas are <strong>judged by a panel of innovators and technologists</strong> based on the following criteria: Innovation, Impact, Feasibility, Scalability, and Sustainability (more below). </li>
 		<li>💰 <strong>Winning ideas will receive funding</strong> and a project investigation team will be assembled to research the idea. This team will produce a report on the feasibility of the project determine if more funding is needed for additional research and prototyping.</li>
 	</ol>
 	<div class="cta-container grid-container">
