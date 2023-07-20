@@ -7,20 +7,20 @@ title: Home
 <h1 class="site-page-title">Introducing Data Futures</h1>
 <p class="site-page-subtitle"><em>A crowdsourcing platform for federal employees @ the Census Bureau.</em></p>
 <p>
-	The Data Futures pilot is a new way to invest in innovation, transformation, and modernization at the U.S. Census Bureau. Using a phase-based approach, our goal is to produce results-driven funding for data innovation projects with clear deliverables at every step of the process.
+	The Data Futures pilot is a new way to invest in innovation, transformation, and modernization at the U.S. Census Bureau. Using a phase-based project approach, our goal is to produce results-driven funding for data innovation projects with clear deliverables at every step of the process.
 </p>
 <section id="section-how-it-works">
 	<h2>1️⃣ How it Works</h2>
 	<ol>
-		<li>✅ <strong>Submit your innovative ideas</strong>. You only need a few sentences to submit.</li>
-		<li>⚖️ Ideas are <strong>judged by a panel of innovators and technologists</strong> based on the following criteria: Innovation, Impact, Feasibility, Scalability, and Sustainability</li>
-		<li>💰 <strong>Winning ideas will receive funding</strong> to do research and produce a report on the feasibility of the project, and propose a concept for a prototype</li>
+		<li>✅ Census Bureau staff <strong>submit data innovation ideas</strong>. You only need a few sentences about the idea and some details about yourself to submit.</li>
+		<li>⚖️ Ideas are <strong>judged by a panel of innovators and technologists</strong> bbased on the following criteria: Innovation, Impact, Feasibility, Scalability, and Sustainability (more below). </li>
+		<li>💰 <strong>Winning ideas will receive funding</strong> and a project investigation team will be assembled to research the idea. This team will produce a report on the feasibility of the project determine if more funding is needed for additional research and prototyping.</li>
 	</ol>
 	<div class="cta-container grid-container">
 		<div class="col emoji-col">💡</div>
 		<div class="col">
 			<h3>What are you waiting for?!</h3>
-			<p>Submit your innovative idea (or ideas!) today. You can also volunteer to be part of a project team below.</p>
+			<p>Submit your innovative idea (or ideas) today. You can also volunteer to be part of a project team below.</p>
 			<a class="button" href="https://airtable.com/appbHalGlnbgesWMy/shrVFf5AOiYfseJ0m" target="_blank">Submit Your Idea</a>
 			<a class="button" href="https://airtable.com/appbHalGlnbgesWMy/shrJR9AAOjchxQLlP" target="_blank">Apply to Join a Project Team</a>
 		</div>
@@ -35,11 +35,11 @@ title: Home
 		<div class="col">
 			<div class="milestone">
 				<h3>August 14th, 2023</h3>
-				<p>All idea and project team applications are due.</p>
+				<p>Idea submissions and project team applications are due.</p>
 			</div>
 			<div class="milestone">
 				<h3>August 20th, 2023</h3>
-				<p>Winning ideas are selected and project team kickoff meeting is scheduled.</p>
+				<p>Winning ideas are selected and project investigation teams kickoff meeting is scheduled.</p>
 			</div>
 			<div class="milestone">
 				<h3>October 7th, 2023</h3>
