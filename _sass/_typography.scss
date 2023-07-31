@@ -27,7 +27,7 @@ h6 {
 }
 
 li {
-	margin-bottom: 1rem;
+	margin-bottom: 0.5rem;
 }
 
 ol,
@@ -41,6 +41,13 @@ ul {
 	font-size: 1.5rem;
 }
 
+.left-border {
+	border-left: 3px solid #F87B1D;
+  padding-left: 14px;
+  padding-right: 14px;
+  width: 100%;
+}
+
 .pilot-details {
 	ol,
 	p,
@@ -51,11 +58,4 @@ ul {
 
 .site-page-title {
 	margin-bottom: 0;
-}
-
-.site-page-subtitle {
-	border-left: 3px solid currentcolor;
-  padding-left: 14px;
-  padding-right: 14px;
-  width: 100%;
 }

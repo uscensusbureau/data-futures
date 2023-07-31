@@ -21,9 +21,6 @@ section {
 }
 
 .example-pitch {
-	border-left: 3px solid currentcolor;
-  padding-left: 14px;
-  padding-right: 14px;
 
   h5,
   p {
@@ -33,10 +30,7 @@ section {
 }
 
 .milestone {
-	border: 1px solid #ccc;
-	border-radius: 3px;
 	margin-bottom: 1rem;
-	padding: 1rem;
 
 	h3 {
 		margin: 0;
@@ -47,6 +41,10 @@ section {
 		font-size: 1rem;
 		margin: 0.5rem 0 0;
 	}
+}
+
+.project-phase {
+	margin-bottom: 2rem;
 }
 
 .section-deadlines {
