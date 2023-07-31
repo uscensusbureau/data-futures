@@ -70,6 +70,11 @@ title: Home
 		</div>
 	</div>
 </section>
+<section>
+	<p class="left-border">
+		<strong>Did you know?</strong> The Data Futures concept originated in the Structured for Success Transformation Track to target investments in internal, data-centric innovation projects. If you are not a federal employee in the Economic Programs Directorate, you can learn how to submit your ideas for exploration by a Transformation Track Team <a href="https://uscensus.sharepoint.com/sites/Transformation" target="_blank">here</a>. 
+	</p>
+</section>
 <section class="pilot-details">
 	<h2>3️⃣ Details</h2>
 	<p>
