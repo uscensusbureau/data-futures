@@ -85,7 +85,7 @@ title: Home
 	<p>Information about each project phase can be found below.</p>
 	<div class="left-border project-phase">
 		<p>
-			<strong>Phase 1: Discovery</strong> (the focus of this proof-of-concept) projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
+			<strong>Phase 1: Discovery</strong> (the focus of this proof of concept) projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
 		</p>
 		<ul>
 			<li>
