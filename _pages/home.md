@@ -9,7 +9,7 @@ title: Home
 <p>
 	The Data Futures proof of concept is a new way to invest in innovation, transformation, and modernization at the U.S. Census Bureau. Using a phase-based project approach, our goal is to produce results-driven funding for data innovation projects with clear deliverables at every step of the process. 
 </p>
-<section id="section-how-it-works">
+<section class="page-section" id="section-how-it-works">
 	<h2>1️⃣ How it Works</h2>
 	<ol>
 		<li>
@@ -40,7 +40,7 @@ title: Home
 		Feel free to send questions to <a href="mailto:data.futures@census.gov">data.futures@census.gov</a>.
 	</p>
 </section>
-<section class="section-deadlines" id="section-deadlines">
+<section class="page-section section-deadlines" id="section-deadlines">
 	<div class="grid-container">
 		<div class="col">
 			<h2>2️⃣ Key Deadlines</h2>
@@ -70,12 +70,12 @@ title: Home
 		</div>
 	</div>
 </section>
-<section>
+<section class="page-section">
 	<p class="left-border">
 		<strong>Did you know?</strong> The Data Futures concept originated in the Structured for Success Transformation Track to target investments in internal, data-centric innovation projects. If you are not a federal employee in the Economic Programs Directorate, you can learn how to submit your ideas for exploration by a Transformation Track Team <a href="https://uscensus.sharepoint.com/sites/Transformation" target="_blank">here</a>. 
 	</p>
 </section>
-<section class="pilot-details">
+<section class="page-section pilot-details">
 	<h2>3️⃣ Details</h2>
 	<p>
 		Data Futures will take a phase-based approach to project funding and development that lowers the barriers to entry and streamlines participation in innovation projects. Structuring the projects in phases creates healthy checkpoints for projects to determine if the work should continue. Taken together, these features will help us save taxpayer dollars while prioritizing projects that produce results.
@@ -88,31 +88,52 @@ title: Home
 		Each phase represents an opportunity to continue with the development of a project. Not all ideas will be selected for Phase 1: Research and not all project deliveries in each phase will move onto the next phase for funding. This is done by design to ensure that Data Futures is prioritizing projects that score highly against the judging criteria of each project phase.
 	</p>
 	<p>Information about each project phase can be found below.</p>
-	<div class="left-border project-phase">
-		<p>
-			<strong>Phase 1: Discovery</strong> (the focus of this proof of concept) projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
+	<div class="usa-accordion">
+	  <h4 class="usa-accordion__heading">
+	    <button type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="a1">
+	      Phase 1: Discovery
+	    </button>
+	  </h4>
+	  <div id="a1" class="usa-accordion__content usa-prose">
+	    <p>
+	    	 Phase One projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
+	    </p>
+	    <ul>
+	    	<li>
+	    		Is this work already being done at the Census Bureau? If so, by whom? And if so, is there an opportunity to try an alternative approach to existing efforts?
+	    	</li>
+	    	<li>
+	    		If this idea hasn’t been addressed at the Census Bureau before, why?
+	    	</li>
+	    	<li>
+	    		What risks need to be considered if this project receives additional funding?
+	    	</li> 
+	    	<li>
+	    		What program areas might be responsible for adopting a solution to this challenge? 
+	    	</li>
+	    </ul>
+	  </div>
+	  <h4 class="usa-accordion__heading">
+	    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">
+	      Phase 2: Research
+	    </button>
+	  </h4>
+	  <div id="a2" class="usa-accordion__content usa-prose" hidden="">
+	    <p class="left-border project-phase">
+	    	Phase Two leans heavily into user research to better understand the scope of the challenge and potential solutions that can be leveraged to address it. This is phase includes approximately 960 hours of staff time for the entire project team. The Discovery phase is meant to expand on the report produced by the Phase 1 project team to thoroughly understand the challenges ahead. In this phase, the scope of a solution should be clear and the opportunities and risks associated with that solution should be well understood. Outside of determining the feasibility of a proposed solution, project teams are not expected to work on the proposed solution. 
+	    </p>
+	  </div>
+	  <h4 class="usa-accordion__heading">
+	    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a3">
+	      Phase 3: Prototype
+	    </button>
+	  </h4>
+	  <div id="a3" class="usa-accordion__content usa-prose" hidden="">
+	  	<p class="left-border project-phase">
+				Phase Three focuses on building a prototype and working with partners to test the solution prior to pushing the prototype to production. This phase requires a program area that will be responsible for the solution to partner with the project team prior to a Phase 3 award. This partnership ensures that the project team is developing a solution that meets the needs of programs and increases the likelihood of the solution entering production. 
 		</p>
-		<ul>
-			<li>
-				Is this work already being done at the Census Bureau? If so, by whom? And if so, is there an opportunity to try an alternative approach to existing efforts?
-			</li>
-			<li>
-				If this idea hasn’t been addressed at the Census Bureau before, why?
-			</li>
-			<li>
-				What risks need to be considered if this project receives additional funding?
-			</li> 
-			<li>
-				What program areas might be responsible for adopting a solution to this challenge? 
-			</li>
-		</ul>
+	  </div>
 	</div>
-	<p class="left-border project-phase">
-		<strong>Phase 2: Research</strong> leans heavily into user research to better understand the scope of the challenge and potential solutions that can be leveraged to address it. This is phase includes approximately 960 hours of staff time for the entire project team. The Discovery phase is meant to expand on the report produced by the Phase 1 project team to thoroughly understand the challenges ahead. In this phase, the scope of a solution should be clear and the opportunities and risks associated with that solution should be well understood. Outside of determining the feasibility of a proposed solution, project teams are not expected to work on the proposed solution. 
-	</p>
-	<p class="left-border project-phase">
-		<strong>Phase 3: Prototype</strong> will focus on building a prototype and working with partners to test the solution prior to pushing the prototype to production. This phase requires a program area that will be responsible for the solution to partner with the project team prior to a Phase 3 award. This partnership ensures that the project team is developing a solution that meets the needs of programs and increases the likelihood of the solution entering production. 
-	</p>
 	<h3>🔎 What does a great idea look like?</h3>
 	<p>
 		A great submission to Data Futures briefly summarizes a data innovation challenge and speaks to the potential impact of solving for it. Here’s an example of the kind of pitch we’re looking for:
