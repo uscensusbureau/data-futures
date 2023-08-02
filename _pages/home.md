@@ -151,7 +151,7 @@ title: Home
 	</div>
 	<h3>Acknowledgement of Submissions</h3>
 	<p>
-		Whether your idea is selected for Phase 1 or not, our team is exploring ways to recognize <em>idea authors</em> in a meaningful way. We’ll be sure to acknowledge each author’s submission to their supervisor during this proof of concept to express gratitude for helping build a more innovative Census Bureau.
+		Whether your idea is selected for Phase 1 or not, our team is exploring ways to recognize <em>idea authors</em> in a meaningful way. We’ll be sure to acknowledge each author’s submission to their supervisor during this proof of concept and encourage all supervisors to support staff’s participation in this program.
 	</p>
 	<h3>⚖️ Judging Criteria</h3>
 	<p>Idea submissions will be judged on the following criteria:</p>
