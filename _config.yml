@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Futures Pilot
+title: Data Futures
 description: >- # this means to ignore newlines until "baseurl:"
   The Data Futures pilot is a new way to invest in innovation, transformation, and 
   modernization at the U.S. Census Bureau. Using a phase-based approach, our goal 

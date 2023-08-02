@@ -96,7 +96,7 @@ title: Home
 	  </h4>
 	  <div id="a1" class="usa-accordion__content usa-prose">
 	    <p>
-	    	 Phase One projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
+	    	 Phase 1 projects are selected based on ideas submitted by Census Bureau staff. This phase accounts for approximately 160 hours of staff time for the entire project team and is meant to determine, after conversations with experts at the Census Bureau, if the idea is worth additional funding and research. In this phase, the goals are to determine the following:
 	    </p>
 	    <ul>
 	    	<li>
@@ -120,7 +120,7 @@ title: Home
 	  </h4>
 	  <div id="a2" class="usa-accordion__content usa-prose" hidden="">
 	    <p class="left-border project-phase">
-	    	Phase Two leans heavily into user research to better understand the scope of the challenge and potential solutions that can be leveraged to address it. This is phase includes approximately 960 hours of staff time for the entire project team. The Discovery phase is meant to expand on the report produced by the Phase 1 project team to thoroughly understand the challenges ahead. In this phase, the scope of a solution should be clear and the opportunities and risks associated with that solution should be well understood. Outside of determining the feasibility of a proposed solution, project teams are not expected to work on the proposed solution. 
+	    	Phase 2 leans heavily into user research to better understand the scope of the challenge and potential solutions that can be leveraged to address it. This is phase includes approximately 960 hours of staff time for the entire project team. The Discovery phase is meant to expand on the report produced by the Phase 1 project team to thoroughly understand the challenges ahead. In this phase, the scope of a solution should be clear and the opportunities and risks associated with that solution should be well understood. Outside of determining the feasibility of a proposed solution, project teams are not expected to work on the proposed solution. 
 	    </p>
 	  </div>
 	  <h4 class="usa-accordion__heading">
@@ -130,7 +130,7 @@ title: Home
 	  </h4>
 	  <div id="a3" class="usa-accordion__content usa-prose" hidden="">
 	  	<p class="left-border project-phase">
-				Phase Three focuses on building a prototype and working with partners to test the solution prior to pushing the prototype to production. This phase requires a program area that will be responsible for the solution to partner with the project team prior to a Phase 3 award. This partnership ensures that the project team is developing a solution that meets the needs of programs and increases the likelihood of the solution entering production. 
+				Phase 3 focuses on building a prototype and working with partners to test the solution prior to pushing the prototype to production. This phase requires a program area that will be responsible for the solution to partner with the project team prior to a Phase 3 award. This partnership ensures that the project team is developing a solution that meets the needs of programs and increases the likelihood of the solution entering production. 
 		</p>
 	  </div>
 	</div>
@@ -149,6 +149,10 @@ title: Home
 			Ultimately, accommodating business data management practices can lead to publishing more granular estimates in a more timely fashion. This idea has been proven out by the Commodity Flow Survey, which modernized its data collection instrument in 2022 and was able to collect 10x the shipment records from businesses across America as a result (6M -> 100M shipment records collected), without a commensurate increase in burden on businesses. Some work is underway within Econ to pursue working with data management solution vendors (such as SAP) which we suggest be further pursued to this end as well. 
 		</p>
 	</div>
+	<h3>Acknowledgement of Submissions</h3>
+	<p>
+		Whether your idea is selected for Phase 1 or not, our team is exploring ways to recognize <em>idea authors</em> in a meaningful way. We’ll be sure to acknowledge each author’s submission to their supervisor during this proof of concept to express gratitude for helping build a more innovative Census Bureau.
+	</p>
 	<h3>⚖️ Judging Criteria</h3>
 	<p>Idea submissions will be judged on the following criteria:</p>
 	<ul>
@@ -165,6 +169,9 @@ title: Home
 			<strong>Scalability:</strong> Does the proposal have the potential to be scaled and replicated across different programs or other federal agencies?
 		</li>
 	</ul>
+	<p>
+		The judging process will be blind. The judges will review idea submissions without the submitter’s name or email address attached to them. The Data Futures team will contact all idea submitters to thank them for their contributions once the judging is complete.
+	</p>
 	<h3>🚀 Information for Project Teams</h3>
 	<p>
 		Project investigation teams will consist of 2-4 federal employees. 
@@ -188,7 +195,7 @@ title: Home
 		<strong>
 			Supervisory approval to participate in a project team is not required.
 		</strong>
-		As a best practice however, we do recommend that you give your supervisor a heads up before submitting an idea or requesting to join a project team. 
+		As a best practice however, we do recommend that you give your supervisor a heads up before submitting an idea or requesting to join a project team. The Data Futures team will work with selected project team members and their supervisors to confirm that they are availabile to participate in Phase 1 of Data Futures before official selection. In the event an employee cannot participate in Phase 1, their information will be retained and they may be asked to participate in future iterations of this program.
 	</p>
 	<p>
 		Census Bureau leadership supports opportunities that advance transformation and promote staff development. This is a great opportunity for you to hone your skills and help the Census Bureau meet mission-critical challenges. 
