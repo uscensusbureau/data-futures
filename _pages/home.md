@@ -170,7 +170,7 @@ title: Home
 		</li>
 	</ul>
 	<p>
-		The judging process will be blind. The judges will review idea submissions without the submitter’s name or email address attached to them. The Data Futures team will contact all idea submitters to thank them for their contributions once the judging is complete.
+		The judging process will be blind. The judges will review idea submissions without the submitter’s name or email address attached to them. The Data Futures team will contact all idea submitters to thank them for their contributions and announce final idea selections shortly after.
 	</p>
 	<h3>🚀 Information for Project Teams</h3>
 	<p>
@@ -195,7 +195,7 @@ title: Home
 		<strong>
 			Supervisory approval to participate in a project team is not required.
 		</strong>
-		As a best practice however, we do recommend that you give your supervisor a heads up before submitting an idea or requesting to join a project team. The Data Futures team will work with selected project team members and their supervisors to confirm that they are availabile to participate in Phase 1 of Data Futures before official selection. In the event an employee cannot participate in Phase 1, their information will be retained and they may be asked to participate in future iterations of this program.
+		As a best practice however, we do recommend that you give your supervisor a heads up before submitting an idea or requesting to join a project team. The Data Futures team will work with selected project team members and their supervisors to confirm that they are available to participate in Phase 1 of Data Futures before official selection. In the event an employee cannot participate in Phase 1, their information will be retained and they may be asked to participate in future iterations of this program.
 	</p>
 	<p>
 		Census Bureau leadership supports opportunities that advance transformation and promote staff development. This is a great opportunity for you to hone your skills and help the Census Bureau meet mission-critical challenges. 
