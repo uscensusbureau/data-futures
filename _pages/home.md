@@ -3,7 +3,9 @@ permalink: /
 layout: default
 title: Home
 ---
-<img src="{{ site.baseurl }}/assets/img/data-futures-logo.png" alt="Data Futures" class="site-logo">
+<a href="https://datafutures.census.gov">
+	<img src="{{ site.baseurl }}/assets/img/data-futures-logo.png" alt="Data Futures" class="site-logo">
+</a>
 <h1 class="site-page-title">Introducing Data Futures</h1>
 <p class="left-border"><em>A crowdsourcing platform for federal employees @ the Census Bureau.</em></p>
 <p>
@@ -72,7 +74,7 @@ title: Home
 </section>
 <section class="page-section">
 	<p class="left-border">
-		<strong>Did you know?</strong> The Data Futures concept originated in the Structured for Success Transformation Track to target investments in internal, data-centric innovation projects. If you are not a federal employee in the Economic Programs Directorate, you can learn how to submit your ideas for exploration by a Transformation Track Team <a href="https://uscensus.sharepoint.com/sites/Transformation" target="_blank">here</a>. 
+		<strong>Did you know?</strong> The Data Futures concept originated in the Structured for Success Transformation Track to target investments in internal, data-centric innovation projects. If you are not a federal employee in the Economic Programs Directorate, you can learn how to submit your ideas for exploration by a Transformation Track Team <a href="https://uscensus.sharepoint.com/sites/Transformation" target="_blank">🔒 here</a>. 
 	</p>
 </section>
 <section class="page-section pilot-details">
@@ -82,6 +84,11 @@ title: Home
 	</p>
 	<p>
 		This proof of concept is limited to staff from the Economic Programs Directorate. If the proof of concept is successful, Data Futures may be expanded into an enterprise-wide program at the Census Bureau. 
+	</p>
+	<h3>What do we mean by data innovation?</h3>
+	<p>
+		Data innovation is the use of new or non-traditional data sources and methods[<a href="https://www.unglobalpulse.org/wp-content/uploads/2016/12/A-guide-to-data-innovation-for-developmnet-UNGP-UNDP.pdf" target="_blank">1</a>] to accerlate and enable mission delivery. If you have ideas for how
+		data can make your job easier, we want to <a href="https://airtable.com/appbHalGlnbgesWMy/shrVFf5AOiYfseJ0m" target="_blank"> hear from you!</a>
 	</p>
 	<h3>Project Phases</h3>
 	<p>
