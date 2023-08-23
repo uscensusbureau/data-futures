@@ -60,7 +60,7 @@ title: Home
 				</p>
 			</div>
 			<div class="milestone">
-				<h3>November 10th, 2023</h3>
+				<h3>November 15th, 2023</h3>
 				<p>Project team reports are due.</p>
 			</div>
 			<div class="milestone">
