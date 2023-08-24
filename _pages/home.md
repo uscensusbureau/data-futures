@@ -87,7 +87,7 @@ title: Home
 	</p>
 	<h3>What do we mean by data innovation?</h3>
 	<p>
-		Data innovation is the use of new or non-traditional data sources and methods[<a href="https://www.unglobalpulse.org/wp-content/uploads/2016/12/A-guide-to-data-innovation-for-developmnet-UNGP-UNDP.pdf" target="_blank">1</a>] to accerlate and enable mission delivery. If you have ideas for how
+		Data innovation is the use of new or non-traditional data sources and methods[<a href="https://www.unglobalpulse.org/wp-content/uploads/2016/12/A-guide-to-data-innovation-for-developmnet-UNGP-UNDP.pdf" target="_blank">1</a>] to accelerate and enable mission delivery. If you have ideas for how
 		data can make your job easier, we want to <a href="https://airtable.com/appbHalGlnbgesWMy/shrVFf5AOiYfseJ0m" target="_blank"> hear from you!</a>
 	</p>
 	<h3>Project Phases</h3>
