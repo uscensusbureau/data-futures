@@ -50,21 +50,21 @@ title: Home
 		</div>
 		<div class="col">
 			<div class="milestone">
-				<h3>September 8th, 2023</h3>
+				<h3>September 22nd, 2023</h3>
 				<p>Idea submissions and project team applications due.</p>
 			</div>
 			<div class="milestone">
-				<h3>September 15th, 2023</h3>
+				<h3>September 29th, 2023</h3>
 				<p>
-					Winning ideas selected and project team kickoff meeting scheduled.
+					Winning ideas selected and project team kickoff meetings scheduled.
 				</p>
 			</div>
 			<div class="milestone">
-				<h3>November 3rd, 2023</h3>
+				<h3>November 15th, 2023</h3>
 				<p>Project team reports are due.</p>
 			</div>
 			<div class="milestone">
-				<h3>November-December 2023</h3>
+				<h3>January 2024</h3>
 				<p>
 					Data Futures proof of concept assessment completed and next steps announced shortly after.
 				</p>
@@ -87,7 +87,7 @@ title: Home
 	</p>
 	<h3>What do we mean by data innovation?</h3>
 	<p>
-		Data innovation is the use of new or non-traditional data sources and methods[<a href="https://www.unglobalpulse.org/wp-content/uploads/2016/12/A-guide-to-data-innovation-for-developmnet-UNGP-UNDP.pdf" target="_blank">1</a>] to accerlate and enable mission delivery. If you have ideas for how
+		Data innovation is the use of new or non-traditional data sources and methods[<a href="https://www.unglobalpulse.org/wp-content/uploads/2016/12/A-guide-to-data-innovation-for-developmnet-UNGP-UNDP.pdf" target="_blank">1</a>] to accelerate and enable mission delivery. If you have ideas for how
 		data can make your job easier, we want to <a href="https://airtable.com/appbHalGlnbgesWMy/shrVFf5AOiYfseJ0m" target="_blank"> hear from you!</a>
 	</p>
 	<h3>Project Phases</h3>
@@ -186,7 +186,7 @@ title: Home
 			Not everyone that applies to be part of a project team will be selected
 		</strong>
 		and selections will be made based on the required skills and expertise needed to investigate the selected ideas as determined by the Data Futures team. Selections for project investigation teams will be made by 
-		<strong>September 15th, 2023.</strong>
+		<strong>September 29th, 2023.</strong>
 	</p>
 	<p>
 		<strong>Upon selection to a project investigation team</strong>, selected individuals will be provided with the following: 
