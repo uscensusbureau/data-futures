@@ -50,17 +50,17 @@ title: Home
 		</div>
 		<div class="col">
 			<div class="milestone">
-				<h3>September 22nd, 2023</h3>
+				<h3>October 6th, 2023</h3>
 				<p>Idea submissions and project team applications due.</p>
 			</div>
 			<div class="milestone">
-				<h3>September 29th, 2023</h3>
+				<h3>October 13th, 2023</h3>
 				<p>
 					Winning ideas selected and project team kickoff meetings scheduled.
 				</p>
 			</div>
 			<div class="milestone">
-				<h3>November 15th, 2023</h3>
+				<h3>December 8th, 2023</h3>
 				<p>Project team reports are due.</p>
 			</div>
 			<div class="milestone">
@@ -186,7 +186,7 @@ title: Home
 			Not everyone that applies to be part of a project team will be selected
 		</strong>
 		and selections will be made based on the required skills and expertise needed to investigate the selected ideas as determined by the Data Futures team. Selections for project investigation teams will be made by 
-		<strong>September 29th, 2023.</strong>
+		<strong>October 13th, 2023.</strong>
 	</p>
 	<p>
 		<strong>Upon selection to a project investigation team</strong>, selected individuals will be provided with the following: 
