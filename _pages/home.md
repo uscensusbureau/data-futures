@@ -27,7 +27,7 @@ title: Home
 			<strong>
 				Winning ideas are selected for a Phase 1: Discovery sprint
 			</strong>
-			and a project team will be assembled to research the idea. Project teams receive funding for their time and will produce a report on the feasibility of the project determine if more funding is needed for additional research in Phase 2 and prototyping in Phase 3.</li>
+			and a project team will be assembled to research the idea. Project teams receive funding for their time and will produce a report on the feasibility of the project to determine if more funding is needed for additional research in Phase 2 and prototyping in Phase 3.</li>
 	</ol>
 	<div class="cta-container grid-container">
 		<div class="col emoji-col">💡</div>
