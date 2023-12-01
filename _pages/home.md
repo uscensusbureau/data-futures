@@ -198,15 +198,6 @@ title: Home
 	<p>
 		Census Bureau leadership supports opportunities that advance transformation and promote staff development. This is a great opportunity for you to hone your skills and help the Census Bureau meet mission-critical challenges. 
 	</p>
-	<div class="cta-container grid-container">
-		<div class="col emoji-col">💡</div>
-		<div class="col">
-			<h3>What are you waiting for?!</h3>
-			<p>Submit your innovative idea (or ideas) today. You can also volunteer to be part of a project team below.</p>
-			<a class="button" href="https://airtable.com/appbHalGlnbgesWMy/shrVFf5AOiYfseJ0m" target="_blank">Submit Your Idea</a>
-			<a class="button" href="https://airtable.com/appbHalGlnbgesWMy/shrJR9AAOjchxQLlP" target="_blank">Apply to Join a Project Team</a>
-		</div>
-	</div>
 	<p>
 		Feel free to send questions to <a href="mailto:data.futures@census.gov">data.futures@census.gov</a>.
 	</p>
